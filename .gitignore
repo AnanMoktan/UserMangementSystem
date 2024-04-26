@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+
+# Ignore target directory for Maven projects
+target/
+
+# Ignore IDE files for Eclipse
+.project
+.classpath
+.settings/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore operating system files (e.g., .DS_Store on macOS)
+.DS_Store
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore application.properties file with sensitive information
+application.properties
